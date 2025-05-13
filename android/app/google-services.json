@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416602232662",
+    "project_id": "nutritionflow-34846",
+    "storage_bucket": "nutritionflow-34846.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416602232662:android:3e9977093f7a5045d368f7",
+        "android_client_info": {
+          "package_name": "com.example.bags_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416602232662-91g55vrth4ttu99h5mg8ug3ir4f6b8dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiM0W1nKdDJ11AK-AiodvCGIrdoJUrJtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416602232662-91g55vrth4ttu99h5mg8ug3ir4f6b8dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
